@@ -24,15 +24,13 @@ footer {
 }
 #profile-pic {
     float: right;
-    width: 150px; /* Adjust as needed */
+    width: 150px; 
     height: auto;
-    border-radius: 50%; /* Optional: makes the image circular */
     margin: 10px;
 }
 #mail-pic {
     display: block;
     margin: 0 auto; /* centers the image */
-    /* add other styles like width, height as needed */
     height: auto;
     width: 200px;
 }
