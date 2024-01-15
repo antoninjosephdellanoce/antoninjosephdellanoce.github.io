@@ -22,3 +22,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+#profile-pic {
+    float: right;
+    width: 150px; /* Adjust as needed */
+    height: auto;
+    border-radius: 50%; /* Optional: makes the image circular */
+    margin: 10px;
+}
